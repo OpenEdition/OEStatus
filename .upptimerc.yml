@@ -11,7 +11,7 @@ sites:
     url: https://books.openedition.org
   - name: Hypothèses
     url: https://hypotheses.org
-   - name: Calenda
+  - name: Calenda
     url: https://calenda.org
 
 status-website:
