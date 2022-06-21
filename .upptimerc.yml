@@ -18,6 +18,9 @@ sites:
   - name: Calenda
     url: https://calenda.org
     icon: https://calenda.org/favicon.ico
+    
+assignees:
+  - bcenou
 
 status-website:
   baseUrl: /OEStatus # where "repo" is your repository name
