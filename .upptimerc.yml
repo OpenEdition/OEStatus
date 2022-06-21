@@ -1,5 +1,5 @@
 # Change these first
-owner: bcenou # Your GitHub organization or username, where this repository lives
+owner: OpenEdition # Your GitHub organization or username, where this repository lives
 repo: OEStatus # The name of this repository
 
 sites:
