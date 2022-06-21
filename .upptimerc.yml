@@ -5,14 +5,19 @@ repo: OEStatus # The name of this repository
 sites:
   - name: OpenEdition
     url: https://www.openedition.org
+    icon: https://www.openedition.org/favicon.png
   - name: OpenEdition Journals
     url: https://journals.openedition.org
+    icon: https://static-origin.openedition.org/journals/images/favicon.png
   - name: OpenEdition Books
     url: https://books.openedition.org
+    icon: https://static.openedition.org/books/images/favicon.ico
   - name: Hypothèses
     url: https://hypotheses.org
+    icon: https://hypotheses.org/wp-content/cleo-commons/images/favicon.png
   - name: Calenda
     url: https://calenda.org
+    icon: https://calenda.org/favicon.ico
 
 status-website:
   baseUrl: /OEStatus # where "repo" is your repository name
