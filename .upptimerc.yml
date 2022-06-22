@@ -21,6 +21,7 @@ sites:
     
 assignees:
   - bcenou
+  - Nourazerty
 
 status-website:
   baseUrl: /OEStatus # where "repo" is your repository name
