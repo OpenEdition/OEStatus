@@ -29,7 +29,7 @@ status-website:
     - name: "robots"
       content: "noindex"
       
- workflowSchedule:
+workflowSchedule:
   graphs: "0 * * * *"
   responseTime: "10 * * * *"
   staticSite: "20 * * * *"
