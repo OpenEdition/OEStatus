@@ -5,16 +5,16 @@
     "icon": "https://www.openedition.org/favicon.png",
     "slug": "open-edition",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "96.62%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
-    "time": 1218,
-    "timeDay": 1314,
-    "timeWeek": 1218,
-    "timeMonth": 1218,
-    "timeYear": 1218,
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
+    "time": 1210,
+    "timeDay": 1312,
+    "timeWeek": 1210,
+    "timeMonth": 1210,
+    "timeYear": 1210,
     "dailyMinutesDown": {
       "2022-06-23": 49
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1101,
-    "timeDay": 1089,
-    "timeWeek": 1101,
-    "timeMonth": 1101,
-    "timeYear": 1101,
+    "time": 1095,
+    "timeDay": 1076,
+    "timeWeek": 1095,
+    "timeMonth": 1095,
+    "timeYear": 1095,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "98.70%",
     "uptimeMonth": "98.70%",
     "uptimeYear": "98.70%",
-    "time": 1408,
-    "timeDay": 1300,
-    "timeWeek": 1408,
-    "timeMonth": 1408,
-    "timeYear": 1408,
+    "time": 1398,
+    "timeDay": 1294,
+    "timeWeek": 1398,
+    "timeMonth": 1398,
+    "timeYear": 1398,
     "dailyMinutesDown": {
       "2022-06-23": 62
     }
@@ -63,18 +63,18 @@
     "icon": "https://hypotheses.org/wp-content/cleo-commons/images/favicon.png",
     "slug": "hypotheses",
     "status": "down",
-    "uptime": "93.61%",
-    "uptimeDay": "79.04%",
-    "uptimeWeek": "93.61%",
-    "uptimeMonth": "93.61%",
-    "uptimeYear": "93.61%",
-    "time": 998,
-    "timeDay": 1011,
-    "timeWeek": 998,
-    "timeMonth": 998,
-    "timeYear": 998,
+    "uptime": "93.24%",
+    "uptimeDay": "77.71%",
+    "uptimeWeek": "93.24%",
+    "uptimeMonth": "93.24%",
+    "uptimeYear": "93.24%",
+    "time": 984,
+    "timeDay": 988,
+    "timeWeek": 984,
+    "timeMonth": 984,
+    "timeYear": 984,
     "dailyMinutesDown": {
-      "2022-06-23": 302
+      "2022-06-23": 321
     }
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "98.25%",
     "uptimeMonth": "98.25%",
     "uptimeYear": "98.25%",
-    "time": 1171,
+    "time": 1165,
     "timeDay": 1165,
-    "timeWeek": 1171,
-    "timeMonth": 1171,
-    "timeYear": 1171,
+    "timeWeek": 1165,
+    "timeMonth": 1165,
+    "timeYear": 1165,
     "dailyMinutesDown": {
       "2022-06-23": 83
     }
