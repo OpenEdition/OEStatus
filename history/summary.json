@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1122,
-    "timeDay": 1132,
-    "timeWeek": 1122,
-    "timeMonth": 1122,
-    "timeYear": 1122,
+    "time": 1233,
+    "timeDay": 1321,
+    "timeWeek": 1233,
+    "timeMonth": 1233,
+    "timeYear": 1233,
     "dailyMinutesDown": {}
   },
   {
@@ -22,71 +22,79 @@
     "url": "https://journals.openedition.org",
     "icon": "https://static-origin.openedition.org/journals/images/favicon.png",
     "slug": "open-edition-journals",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1104,
-    "timeDay": 1128,
+    "timeDay": 1114,
     "timeWeek": 1104,
     "timeMonth": 1104,
     "timeYear": 1104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-23": 1
+    }
   },
   {
     "name": "OpenEdition Books",
     "url": "https://books.openedition.org",
     "icon": "https://static.openedition.org/books/images/favicon.ico",
     "slug": "open-edition-books",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1404,
-    "timeDay": 1324,
+    "timeDay": 1310,
     "timeWeek": 1404,
     "timeMonth": 1404,
     "timeYear": 1404,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-23": 0
+    }
   },
   {
     "name": "Hypothèses",
     "url": "https://hypotheses.org",
     "icon": "https://hypotheses.org/wp-content/cleo-commons/images/favicon.png",
     "slug": "hypotheses",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1012,
-    "timeDay": 1054,
+    "timeDay": 1045,
     "timeWeek": 1012,
     "timeMonth": 1012,
     "timeYear": 1012,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-23": 0
+    }
   },
   {
     "name": "Calenda",
     "url": "https://calenda.org",
     "icon": "https://calenda.org/favicon.ico",
     "slug": "calenda",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1170,
-    "timeDay": 1190,
+    "timeDay": 1185,
     "timeWeek": 1170,
     "timeMonth": 1170,
     "timeYear": 1170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-23": 0
+    }
   }
 ]
