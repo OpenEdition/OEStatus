@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1244,
-    "timeDay": 2336,
-    "timeWeek": 1448,
+    "time": 1243,
+    "timeDay": 2341,
+    "timeWeek": 1451,
     "timeMonth": 1262,
-    "timeYear": 1244,
+    "timeYear": 1243,
     "dailyMinutesDown": {
       "2022-06-23": 49
     }
@@ -32,8 +32,8 @@
     "uptimeYear": "100.00%",
     "time": 1171,
     "timeDay": 1558,
-    "timeWeek": 1367,
-    "timeMonth": 1210,
+    "timeWeek": 1369,
+    "timeMonth": 1209,
     "timeYear": 1171,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1391,
-    "timeDay": 2356,
-    "timeWeek": 1581,
-    "timeMonth": 1420,
-    "timeYear": 1391,
+    "time": 1392,
+    "timeDay": 2588,
+    "timeWeek": 1616,
+    "timeMonth": 1427,
+    "timeYear": 1392,
     "dailyMinutesDown": {
       "2022-06-23": 62
     }
@@ -69,8 +69,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.42%",
     "time": 1023,
-    "timeDay": 1957,
-    "timeWeek": 1211,
+    "timeDay": 1961,
+    "timeWeek": 1213,
     "timeMonth": 1057,
     "timeYear": 1023,
     "dailyMinutesDown": {
@@ -88,14 +88,14 @@
     "icon": "https://calenda.org/favicon.ico",
     "slug": "calenda",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 1206,
-    "timeDay": 1444,
-    "timeWeek": 1367,
+    "timeDay": 1464,
+    "timeWeek": 1372,
     "timeMonth": 1241,
     "timeYear": 1206,
     "dailyMinutesDown": {
