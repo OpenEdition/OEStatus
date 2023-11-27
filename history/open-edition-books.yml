@@ -1,7 +1,7 @@
 url: https://books.openedition.org
-status: down
-code: 503
-responseTime: 473
-lastUpdated: 2023-11-27T11:46:43.606Z
+status: up
+code: 200
+responseTime: 1254
+lastUpdated: 2023-11-27T11:55:30.280Z
 startTime: 2022-06-20T12:26:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
