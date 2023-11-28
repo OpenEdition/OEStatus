@@ -48,10 +48,10 @@
     "url": "https://books.openedition.org",
     "icon": "https://static.openedition.org/books/images/favicon.ico",
     "slug": "open-edition-books",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 1454,
@@ -60,6 +60,7 @@
     "timeMonth": 1906,
     "timeYear": 1456,
     "dailyMinutesDown": {
+      "2023-11-28": 2,
       "2023-07-12": 58,
       "2023-04-24": 168,
       "2023-01-24": 202
