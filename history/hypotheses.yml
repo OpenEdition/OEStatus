@@ -1,7 +1,7 @@
 url: https://hypotheses.org
-status: up
-code: 200
-responseTime: 11791
-lastUpdated: 2024-07-23T21:52:39.745Z
+status: down
+code: 503
+responseTime: 373
+lastUpdated: 2024-07-23T22:26:40.559Z
 startTime: 2022-06-20T12:26:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
