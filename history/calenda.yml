@@ -1,7 +1,7 @@
 url: https://calenda.org
-status: up
-code: 200
-responseTime: 1756
-lastUpdated: 2025-05-26T18:37:12.865Z
+status: down
+code: 503
+responseTime: 548
+lastUpdated: 2025-05-26T19:07:00.604Z
 startTime: 2022-06-20T12:26:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
