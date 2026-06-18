@@ -4,14 +4,14 @@
     "url": "https://www.openedition.org",
     "icon": "https://www.openedition.org/favicon.png",
     "slug": "open-edition",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.40%",
     "time": 1124,
-    "timeDay": 1069,
+    "timeDay": 1029,
     "timeWeek": 1048,
     "timeMonth": 1072,
     "timeYear": 1123,
@@ -27,7 +27,9 @@
       "2026-04-10": 31,
       "2026-04-13": 107,
       "2026-04-16": 71,
-      "2026-06-09": 168
+      "2026-06-09": 168,
+      "2026-06-18": 13,
+      "2026-06-17": 7
     }
   },
   {
@@ -35,16 +37,16 @@
     "url": "https://journals.openedition.org",
     "icon": "https://static-origin.openedition.org/journals/images/favicon.png",
     "slug": "open-edition-journals",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.41%",
     "time": 1083,
-    "timeDay": 999,
+    "timeDay": 973,
     "timeWeek": 934,
-    "timeMonth": 965,
+    "timeMonth": 966,
     "timeYear": 1083,
     "dailyMinutesDown": {
       "2025-07-12": 268,
@@ -59,7 +61,9 @@
       "2026-04-09": 44,
       "2026-04-13": 107,
       "2026-04-16": 71,
-      "2026-06-09": 163
+      "2026-06-09": 163,
+      "2026-06-18": 15,
+      "2026-06-17": 2
     }
   },
   {
@@ -67,17 +71,17 @@
     "url": "https://books.openedition.org",
     "icon": "https://static.openedition.org/books/images/favicon.ico",
     "slug": "open-edition-books",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.52%",
     "time": 1497,
-    "timeDay": 1370,
+    "timeDay": 1281,
     "timeWeek": 1420,
-    "timeMonth": 1466,
-    "timeYear": 1493,
+    "timeMonth": 1468,
+    "timeYear": 1492,
     "dailyMinutesDown": {
       "2025-07-12": 270,
       "2025-07-15": 75,
@@ -92,7 +96,8 @@
       "2026-01-22": 97,
       "2026-04-13": 106,
       "2026-04-16": 70,
-      "2026-06-09": 158
+      "2026-06-09": 158,
+      "2026-06-18": 13
     }
   },
   {
@@ -100,16 +105,16 @@
     "url": "https://hypotheses.org",
     "icon": "https://hypotheses.org/wp-content/cleo-commons/images/favicon.png",
     "slug": "hypotheses",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.52%",
     "time": 1126,
-    "timeDay": 1074,
+    "timeDay": 976,
     "timeWeek": 1020,
-    "timeMonth": 1065,
+    "timeMonth": 1066,
     "timeYear": 1125,
     "dailyMinutesDown": {
       "2025-07-12": 270,
@@ -120,7 +125,8 @@
       "2026-02-26": 15,
       "2026-04-13": 106,
       "2026-04-16": 70,
-      "2026-06-09": 153
+      "2026-06-09": 153,
+      "2026-06-18": 8
     }
   },
   {
@@ -128,16 +134,16 @@
     "url": "https://calenda.org",
     "icon": "https://calenda.org/favicon.ico",
     "slug": "calenda",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.37%",
     "time": 1097,
-    "timeDay": 1084,
+    "timeDay": 1023,
     "timeWeek": 1017,
-    "timeMonth": 1028,
+    "timeMonth": 1029,
     "timeYear": 1096,
     "dailyMinutesDown": {
       "2025-07-12": 270,
@@ -152,7 +158,8 @@
       "2026-04-10": 179,
       "2026-04-13": 105,
       "2026-04-16": 69,
-      "2026-06-09": 148
+      "2026-06-09": 148,
+      "2026-06-18": 4
     }
   }
 ]
