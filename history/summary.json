@@ -6,9 +6,9 @@
     "slug": "open-edition",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.57%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.40%",
     "time": 1124,
     "timeDay": 1029,
@@ -28,7 +28,7 @@
       "2026-04-13": 107,
       "2026-04-16": 71,
       "2026-06-09": 168,
-      "2026-06-18": 13,
+      "2026-06-18": 18,
       "2026-06-17": 7
     }
   },
@@ -39,10 +39,10 @@
     "slug": "open-edition-journals",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.40%",
     "time": 1083,
     "timeDay": 973,
     "timeWeek": 934,
@@ -62,7 +62,7 @@
       "2026-04-13": 107,
       "2026-04-16": 71,
       "2026-06-09": 163,
-      "2026-06-18": 15,
+      "2026-06-18": 19,
       "2026-06-17": 2
     }
   },
@@ -73,9 +73,9 @@
     "slug": "open-edition-books",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.52%",
     "time": 1497,
     "timeDay": 1281,
@@ -97,7 +97,7 @@
       "2026-04-13": 106,
       "2026-04-16": 70,
       "2026-06-09": 158,
-      "2026-06-18": 13
+      "2026-06-18": 16
     }
   },
   {
@@ -107,9 +107,9 @@
     "slug": "hypotheses",
     "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.52%",
     "time": 1126,
     "timeDay": 976,
@@ -126,7 +126,7 @@
       "2026-04-13": 106,
       "2026-04-16": 70,
       "2026-06-09": 153,
-      "2026-06-18": 8
+      "2026-06-18": 12
     }
   },
   {
@@ -136,9 +136,9 @@
     "slug": "calenda",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.37%",
     "time": 1097,
     "timeDay": 1023,
@@ -159,7 +159,7 @@
       "2026-04-13": 105,
       "2026-04-16": 69,
       "2026-06-09": 148,
-      "2026-06-18": 4
+      "2026-06-18": 8
     }
   }
 ]
