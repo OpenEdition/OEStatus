@@ -11,8 +11,8 @@
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.40%",
     "time": 1124,
-    "timeDay": 1015,
-    "timeWeek": 1046,
+    "timeDay": 951,
+    "timeWeek": 1039,
     "timeMonth": 1072,
     "timeYear": 1123,
     "dailyMinutesDown": {
@@ -44,10 +44,10 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.40%",
     "time": 1083,
-    "timeDay": 956,
-    "timeWeek": 932,
-    "timeMonth": 965,
-    "timeYear": 1083,
+    "timeDay": 885,
+    "timeWeek": 928,
+    "timeMonth": 964,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2025-07-12": 268,
       "2025-07-15": 25,
@@ -78,9 +78,9 @@
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.52%",
     "time": 1497,
-    "timeDay": 1215,
-    "timeWeek": 1408,
-    "timeMonth": 1466,
+    "timeDay": 1167,
+    "timeWeek": 1388,
+    "timeMonth": 1450,
     "timeYear": 1492,
     "dailyMinutesDown": {
       "2025-07-12": 270,
@@ -112,8 +112,8 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.52%",
     "time": 1126,
-    "timeDay": 957,
-    "timeWeek": 1016,
+    "timeDay": 917,
+    "timeWeek": 1009,
     "timeMonth": 1065,
     "timeYear": 1125,
     "dailyMinutesDown": {
@@ -136,13 +136,13 @@
     "slug": "calenda",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.37%",
     "time": 1097,
-    "timeDay": 1017,
-    "timeWeek": 1016,
+    "timeDay": 955,
+    "timeWeek": 1010,
     "timeMonth": 1029,
     "timeYear": 1096,
     "dailyMinutesDown": {
@@ -158,8 +158,7 @@
       "2026-04-10": 179,
       "2026-04-13": 105,
       "2026-04-16": 69,
-      "2026-06-09": 148,
-      "2026-06-18": 11
+      "2026-06-09": 148
     }
   }
 ]
