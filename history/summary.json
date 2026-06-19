@@ -47,7 +47,7 @@
     "time": 1083,
     "timeDay": 1066,
     "timeWeek": 964,
-    "timeMonth": 969,
+    "timeMonth": 967,
     "timeYear": 1083,
     "dailyMinutesDown": {
       "2025-07-12": 268,
@@ -82,7 +82,7 @@
     "time": 1493,
     "timeDay": 1568,
     "timeWeek": 1407,
-    "timeMonth": 1455,
+    "timeMonth": 1454,
     "timeYear": 1492,
     "dailyMinutesDown": {
       "2025-07-12": 270,
@@ -140,10 +140,10 @@
     "slug": "calenda",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "97.67%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.37%",
     "time": 1097,
     "timeDay": 1053,
     "timeWeek": 1010,
@@ -163,7 +163,7 @@
       "2026-04-13": 105,
       "2026-04-16": 69,
       "2026-06-09": 148,
-      "2026-06-19": 33
+      "2026-06-19": 21
     }
   }
 ]
