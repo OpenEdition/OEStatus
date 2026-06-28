@@ -11,9 +11,9 @@
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.35%",
     "time": 1123,
-    "timeDay": 1252,
-    "timeWeek": 1141,
-    "timeMonth": 1086,
+    "timeDay": 1282,
+    "timeWeek": 1145,
+    "timeMonth": 1084,
     "timeYear": 1123,
     "dailyMinutesDown": {
       "2025-07-12": 269,
@@ -47,8 +47,8 @@
     "uptimeMonth": "98.98%",
     "uptimeYear": "99.35%",
     "time": 1082,
-    "timeDay": 913,
-    "timeWeek": 1081,
+    "timeDay": 960,
+    "timeWeek": 1088,
     "timeMonth": 996,
     "timeYear": 1082,
     "dailyMinutesDown": {
@@ -84,10 +84,10 @@
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.48%",
     "time": 1491,
-    "timeDay": 1433,
-    "timeWeek": 1496,
+    "timeDay": 1527,
+    "timeWeek": 1505,
     "timeMonth": 1464,
-    "timeYear": 1489,
+    "timeYear": 1490,
     "dailyMinutesDown": {
       "2025-07-12": 270,
       "2025-07-15": 75,
@@ -116,13 +116,13 @@
     "slug": "hypotheses",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "99.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.48%",
     "time": 1124,
-    "timeDay": 1033,
-    "timeWeek": 1069,
+    "timeDay": 1075,
+    "timeWeek": 1075,
     "timeMonth": 1055,
     "timeYear": 1123,
     "dailyMinutesDown": {
@@ -137,8 +137,7 @@
       "2026-06-09": 153,
       "2026-06-18": 16,
       "2026-06-19": 43,
-      "2026-06-23": 164,
-      "2026-06-27": 11
+      "2026-06-23": 164
     }
   },
   {
@@ -148,14 +147,14 @@
     "slug": "calenda",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "99.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.25%",
     "uptimeYear": "99.34%",
     "time": 1096,
-    "timeDay": 1049,
-    "timeWeek": 1079,
-    "timeMonth": 1035,
+    "timeDay": 1073,
+    "timeWeek": 1087,
+    "timeMonth": 1036,
     "timeYear": 1096,
     "dailyMinutesDown": {
       "2025-07-12": 270,
@@ -172,8 +171,7 @@
       "2026-04-16": 69,
       "2026-06-09": 148,
       "2026-06-19": 21,
-      "2026-06-23": 160,
-      "2026-06-27": 6
+      "2026-06-23": 160
     }
   }
 ]
