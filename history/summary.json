@@ -4,15 +4,15 @@
     "url": "https://www.openedition.org",
     "icon": "https://www.openedition.org/favicon.png",
     "slug": "open-edition",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.30%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.25%",
     "uptimeYear": "99.40%",
     "time": 1121,
-    "timeDay": 1106,
-    "timeWeek": 1108,
+    "timeDay": 1115,
+    "timeWeek": 1102,
     "timeMonth": 1103,
     "timeYear": 1120,
     "dailyMinutesDown": {
@@ -31,7 +31,8 @@
       "2026-06-17": 7,
       "2026-06-19": 73,
       "2026-06-23": 179,
-      "2026-06-27": 25
+      "2026-06-27": 25,
+      "2026-07-17": 20
     }
   },
   {
@@ -39,15 +40,15 @@
     "url": "https://journals.openedition.org",
     "icon": "https://static-origin.openedition.org/journals/images/favicon.png",
     "slug": "open-edition-journals",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "99.41%",
     "time": 1076,
-    "timeDay": 954,
-    "timeWeek": 992,
+    "timeDay": 978,
+    "timeWeek": 986,
     "timeMonth": 986,
     "timeYear": 1076,
     "dailyMinutesDown": {
@@ -66,7 +67,8 @@
       "2026-06-17": 2,
       "2026-06-19": 63,
       "2026-06-23": 174,
-      "2026-06-27": 20
+      "2026-06-27": 20,
+      "2026-07-17": 16
     }
   },
   {
@@ -74,16 +76,16 @@
     "url": "https://books.openedition.org",
     "icon": "https://static.openedition.org/books/images/favicon.ico",
     "slug": "open-edition-books",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.41%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.38%",
     "uptimeYear": "99.54%",
     "time": 1483,
-    "timeDay": 1534,
-    "timeWeek": 1532,
-    "timeMonth": 1479,
+    "timeDay": 1579,
+    "timeWeek": 1527,
+    "timeMonth": 1480,
     "timeYear": 1479,
     "dailyMinutesDown": {
       "2025-08-25": 566,
@@ -101,7 +103,8 @@
       "2026-06-18": 21,
       "2026-06-19": 53,
       "2026-06-23": 169,
-      "2026-06-27": 16
+      "2026-06-27": 16,
+      "2026-07-17": 13
     }
   },
   {
@@ -109,15 +112,15 @@
     "url": "https://hypotheses.org",
     "icon": "https://hypotheses.org/wp-content/cleo-commons/images/favicon.png",
     "slug": "hypotheses",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.58%",
     "time": 1120,
-    "timeDay": 1056,
-    "timeWeek": 1127,
+    "timeDay": 1074,
+    "timeWeek": 1121,
     "timeMonth": 1079,
     "timeYear": 1120,
     "dailyMinutesDown": {
@@ -130,7 +133,8 @@
       "2026-06-09": 153,
       "2026-06-18": 16,
       "2026-06-19": 43,
-      "2026-06-23": 164
+      "2026-06-23": 164,
+      "2026-07-17": 10
     }
   },
   {
@@ -138,16 +142,16 @@
     "url": "https://calenda.org",
     "icon": "https://calenda.org/favicon.ico",
     "slug": "calenda",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.39%",
     "time": 1092,
-    "timeDay": 1012,
-    "timeWeek": 1068,
-    "timeMonth": 1057,
+    "timeDay": 1028,
+    "timeWeek": 1065,
+    "timeMonth": 1056,
     "timeYear": 1092,
     "dailyMinutesDown": {
       "2025-08-24": 117,
@@ -163,7 +167,8 @@
       "2026-04-16": 69,
       "2026-06-09": 148,
       "2026-06-19": 21,
-      "2026-06-23": 160
+      "2026-06-23": 160,
+      "2026-07-17": 6
     }
   }
 ]
