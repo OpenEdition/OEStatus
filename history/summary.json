@@ -4,15 +4,15 @@
     "url": "https://www.openedition.org",
     "icon": "https://www.openedition.org/favicon.png",
     "slug": "open-edition",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "96.40%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "99.36%",
     "time": 1118,
-    "timeDay": 1124,
-    "timeWeek": 1103,
+    "timeDay": 1073,
+    "timeWeek": 1101,
     "timeMonth": 1088,
     "timeYear": 1118,
     "dailyMinutesDown": {
@@ -34,7 +34,7 @@
       "2026-06-27": 25,
       "2026-07-17": 53,
       "2026-07-19": 132,
-      "2026-07-31": 20
+      "2026-07-31": 52
     }
   },
   {
@@ -42,15 +42,15 @@
     "url": "https://journals.openedition.org",
     "icon": "https://static-origin.openedition.org/journals/images/favicon.png",
     "slug": "open-edition-journals",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.56%",
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "99.37%",
     "time": 1071,
-    "timeDay": 963,
-    "timeWeek": 1056,
+    "timeDay": 968,
+    "timeWeek": 1055,
     "timeMonth": 978,
     "timeYear": 1070,
     "dailyMinutesDown": {
@@ -72,7 +72,7 @@
       "2026-06-27": 20,
       "2026-07-17": 48,
       "2026-07-19": 127,
-      "2026-07-31": 16
+      "2026-07-31": 47
     }
   },
   {
@@ -80,16 +80,16 @@
     "url": "https://books.openedition.org",
     "icon": "https://static.openedition.org/books/images/favicon.ico",
     "slug": "open-edition-books",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.51%",
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.50%",
     "time": 1474,
-    "timeDay": 1707,
-    "timeWeek": 1667,
-    "timeMonth": 1540,
+    "timeDay": 1498,
+    "timeWeek": 1660,
+    "timeMonth": 1538,
     "timeYear": 1471,
     "dailyMinutesDown": {
       "2025-08-25": 566,
@@ -110,7 +110,7 @@
       "2026-06-27": 16,
       "2026-07-17": 44,
       "2026-07-19": 122,
-      "2026-07-31": 12
+      "2026-07-31": 42
     }
   },
   {
@@ -118,16 +118,16 @@
     "url": "https://hypotheses.org",
     "icon": "https://hypotheses.org/wp-content/cleo-commons/images/favicon.png",
     "slug": "hypotheses",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.55%",
     "time": 1116,
-    "timeDay": 1106,
-    "timeWeek": 1046,
-    "timeMonth": 1060,
+    "timeDay": 1041,
+    "timeWeek": 1044,
+    "timeMonth": 1058,
     "timeYear": 1116,
     "dailyMinutesDown": {
       "2025-08-24": 109,
@@ -142,7 +142,7 @@
       "2026-06-23": 164,
       "2026-07-17": 39,
       "2026-07-19": 117,
-      "2026-07-31": 7
+      "2026-07-31": 37
     }
   },
   {
@@ -150,16 +150,16 @@
     "url": "https://calenda.org",
     "icon": "https://calenda.org/favicon.ico",
     "slug": "calenda",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.35%",
     "time": 1090,
-    "timeDay": 1097,
-    "timeWeek": 1068,
-    "timeMonth": 1060,
+    "timeDay": 1069,
+    "timeWeek": 1067,
+    "timeMonth": 1058,
     "timeYear": 1089,
     "dailyMinutesDown": {
       "2025-08-24": 117,
@@ -178,7 +178,7 @@
       "2026-06-23": 160,
       "2026-07-17": 34,
       "2026-07-19": 112,
-      "2026-07-31": 3
+      "2026-07-31": 33
     }
   }
 ]
