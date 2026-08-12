@@ -4,15 +4,15 @@
     "url": "https://www.openedition.org",
     "icon": "https://www.openedition.org/favicon.png",
     "slug": "open-edition",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.34%",
     "time": 1118,
-    "timeDay": 1295,
-    "timeWeek": 1176,
+    "timeDay": 1300,
+    "timeWeek": 1175,
     "timeMonth": 1117,
     "timeYear": 1119,
     "dailyMinutesDown": {
@@ -35,7 +35,8 @@
       "2026-07-17": 53,
       "2026-07-19": 132,
       "2026-07-31": 52,
-      "2026-08-02": 55
+      "2026-08-02": 55,
+      "2026-08-12": 20
     }
   },
   {
@@ -43,14 +44,14 @@
     "url": "https://journals.openedition.org",
     "icon": "https://static-origin.openedition.org/journals/images/favicon.png",
     "slug": "open-edition-journals",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "99.36%",
     "time": 1068,
-    "timeDay": 1086,
+    "timeDay": 1095,
     "timeWeek": 1008,
     "timeMonth": 1007,
     "timeYear": 1068,
@@ -74,7 +75,8 @@
       "2026-07-17": 48,
       "2026-07-19": 127,
       "2026-07-31": 47,
-      "2026-08-02": 50
+      "2026-08-02": 50,
+      "2026-08-12": 16
     }
   },
   {
@@ -82,16 +84,16 @@
     "url": "https://books.openedition.org",
     "icon": "https://static.openedition.org/books/images/favicon.ico",
     "slug": "open-edition-books",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.42%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "99.49%",
     "time": 1472,
-    "timeDay": 1636,
-    "timeWeek": 1545,
-    "timeMonth": 1570,
+    "timeDay": 1637,
+    "timeWeek": 1544,
+    "timeMonth": 1569,
     "timeYear": 1471,
     "dailyMinutesDown": {
       "2025-08-25": 566,
@@ -113,7 +115,8 @@
       "2026-07-17": 44,
       "2026-07-19": 122,
       "2026-07-31": 42,
-      "2026-08-02": 45
+      "2026-08-02": 45,
+      "2026-08-12": 12
     }
   },
   {
@@ -121,16 +124,16 @@
     "url": "https://hypotheses.org",
     "icon": "https://hypotheses.org/wp-content/cleo-commons/images/favicon.png",
     "slug": "hypotheses",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.47%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "99.54%",
     "time": 1115,
-    "timeDay": 1208,
-    "timeWeek": 1113,
-    "timeMonth": 1073,
+    "timeDay": 1207,
+    "timeWeek": 1111,
+    "timeMonth": 1072,
     "timeYear": 1114,
     "dailyMinutesDown": {
       "2025-08-24": 109,
@@ -146,7 +149,8 @@
       "2026-07-17": 39,
       "2026-07-19": 117,
       "2026-07-31": 37,
-      "2026-08-02": 40
+      "2026-08-02": 40,
+      "2026-08-12": 8
     }
   },
   {
@@ -154,16 +158,16 @@
     "url": "https://calenda.org",
     "icon": "https://calenda.org/favicon.ico",
     "slug": "calenda",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.51%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.35%",
     "time": 1089,
-    "timeDay": 1124,
-    "timeWeek": 1064,
-    "timeMonth": 1063,
+    "timeDay": 1118,
+    "timeWeek": 1059,
+    "timeMonth": 1062,
     "timeYear": 1088,
     "dailyMinutesDown": {
       "2025-08-24": 117,
@@ -183,7 +187,8 @@
       "2026-07-17": 34,
       "2026-07-19": 112,
       "2026-07-31": 33,
-      "2026-08-02": 35
+      "2026-08-02": 35,
+      "2026-08-12": 4
     }
   }
 ]
