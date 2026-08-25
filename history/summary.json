@@ -159,15 +159,15 @@
     "url": "https://calenda.org",
     "icon": "https://calenda.org/favicon.ico",
     "slug": "calenda",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.36%",
     "time": 1093,
-    "timeDay": 1963,
-    "timeWeek": 1323,
+    "timeDay": 1925,
+    "timeWeek": 1321,
     "timeMonth": 1150,
     "timeYear": 1093,
     "dailyMinutesDown": {
@@ -190,7 +190,7 @@
       "2026-08-02": 35,
       "2026-08-23": 37,
       "2026-08-22": 3,
-      "2026-08-25": 10
+      "2026-08-25": 28
     }
   }
 ]
