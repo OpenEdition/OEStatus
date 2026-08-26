@@ -11,8 +11,8 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.35%",
     "time": 1115,
-    "timeDay": 1019,
-    "timeWeek": 1039,
+    "timeDay": 1032,
+    "timeWeek": 1038,
     "timeMonth": 1090,
     "timeYear": 1116,
     "dailyMinutesDown": {
@@ -52,8 +52,8 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.37%",
     "time": 1062,
-    "timeDay": 1115,
-    "timeWeek": 989,
+    "timeDay": 1124,
+    "timeWeek": 987,
     "timeMonth": 997,
     "timeYear": 1062,
     "dailyMinutesDown": {
@@ -93,8 +93,8 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.68%",
     "time": 1469,
-    "timeDay": 1455,
-    "timeWeek": 1460,
+    "timeDay": 1469,
+    "timeWeek": 1456,
     "timeMonth": 1533,
     "timeYear": 1466,
     "dailyMinutesDown": {
@@ -132,8 +132,8 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.55%",
     "time": 1111,
-    "timeDay": 998,
-    "timeWeek": 1028,
+    "timeDay": 997,
+    "timeWeek": 1027,
     "timeMonth": 1076,
     "timeYear": 1111,
     "dailyMinutesDown": {
@@ -159,14 +159,14 @@
     "url": "https://calenda.org",
     "icon": "https://calenda.org/favicon.ico",
     "slug": "calenda",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "96.43%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.35%",
     "time": 1094,
-    "timeDay": 1503,
+    "timeDay": 1511,
     "timeWeek": 1372,
     "timeMonth": 1165,
     "timeYear": 1094,
@@ -191,7 +191,7 @@
       "2026-08-23": 37,
       "2026-08-22": 3,
       "2026-08-25": 28,
-      "2026-08-26": 23
+      "2026-08-26": 50
     }
   }
 ]
