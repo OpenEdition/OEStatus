@@ -4,11 +4,11 @@
     "url": "https://www.openedition.org",
     "icon": "https://www.openedition.org/favicon.png",
     "slug": "open-edition",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.35%",
     "time": 1116,
     "timeDay": 1219,
@@ -37,7 +37,8 @@
       "2026-08-02": 55,
       "2026-08-12": 24,
       "2026-08-23": 37,
-      "2026-08-22": 23
+      "2026-08-22": 23,
+      "2026-09-04": 20
     }
   },
   {
@@ -45,12 +46,12 @@
     "url": "https://journals.openedition.org",
     "icon": "https://static-origin.openedition.org/journals/images/favicon.png",
     "slug": "open-edition-journals",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.36%",
     "time": 1062,
     "timeDay": 988,
     "timeWeek": 1015,
@@ -78,7 +79,8 @@
       "2026-08-02": 50,
       "2026-08-12": 19,
       "2026-08-23": 37,
-      "2026-08-22": 18
+      "2026-08-22": 18,
+      "2026-09-04": 16
     }
   },
   {
@@ -86,12 +88,12 @@
     "url": "https://books.openedition.org",
     "icon": "https://static.openedition.org/books/images/favicon.ico",
     "slug": "open-edition-books",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.68%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.67%",
     "time": 1468,
     "timeDay": 1616,
     "timeWeek": 1586,
@@ -117,7 +119,8 @@
       "2026-07-31": 42,
       "2026-08-02": 45,
       "2026-08-23": 37,
-      "2026-08-22": 13
+      "2026-08-22": 13,
+      "2026-09-04": 13
     }
   },
   {
@@ -125,11 +128,11 @@
     "url": "https://hypotheses.org",
     "icon": "https://hypotheses.org/wp-content/cleo-commons/images/favicon.png",
     "slug": "hypotheses",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.55%",
     "time": 1111,
     "timeDay": 1216,
@@ -151,7 +154,8 @@
       "2026-07-31": 37,
       "2026-08-02": 40,
       "2026-08-23": 37,
-      "2026-08-22": 8
+      "2026-08-22": 8,
+      "2026-09-04": 10
     }
   },
   {
@@ -159,11 +163,11 @@
     "url": "https://calenda.org",
     "icon": "https://calenda.org/favicon.ico",
     "slug": "calenda",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.35%",
     "time": 1097,
     "timeDay": 1596,
@@ -191,7 +195,8 @@
       "2026-08-23": 37,
       "2026-08-22": 3,
       "2026-08-25": 28,
-      "2026-08-26": 50
+      "2026-08-26": 50,
+      "2026-09-04": 5
     }
   }
 ]
