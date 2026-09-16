@@ -4,15 +4,15 @@
     "url": "https://www.openedition.org",
     "icon": "https://www.openedition.org/favicon.png",
     "slug": "open-edition",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.27%",
-    "uptimeMonth": "98.66%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "98.62%",
     "uptimeYear": "99.25%",
     "time": 1116,
-    "timeDay": 1034,
-    "timeWeek": 1170,
+    "timeDay": 1049,
+    "timeWeek": 1177,
     "timeMonth": 1082,
     "timeYear": 1116,
     "dailyMinutesDown": {
@@ -40,7 +40,9 @@
       "2026-08-22": 23,
       "2026-09-04": 226,
       "2026-09-06": 25,
-      "2026-09-12": 275
+      "2026-09-12": 275,
+      "2026-09-16": 9,
+      "2026-09-15": 10
     }
   },
   {
@@ -48,14 +50,14 @@
     "url": "https://journals.openedition.org",
     "icon": "https://static-origin.openedition.org/journals/images/favicon.png",
     "slug": "open-edition-journals",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "99.27%",
     "time": 1061,
-    "timeDay": 958,
+    "timeDay": 971,
     "timeWeek": 1027,
     "timeMonth": 996,
     "timeYear": 1061,
@@ -84,7 +86,9 @@
       "2026-08-22": 18,
       "2026-09-04": 221,
       "2026-09-06": 20,
-      "2026-09-12": 271
+      "2026-09-12": 271,
+      "2026-09-16": 11,
+      "2026-09-15": 5
     }
   },
   {
@@ -92,16 +96,16 @@
     "url": "https://books.openedition.org",
     "icon": "https://static.openedition.org/books/images/favicon.ico",
     "slug": "open-edition-books",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "97.23%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "99.60%",
     "time": 1468,
-    "timeDay": 1660,
-    "timeWeek": 1823,
-    "timeMonth": 1551,
+    "timeDay": 1755,
+    "timeWeek": 1800,
+    "timeMonth": 1552,
     "timeYear": 1465,
     "dailyMinutesDown": {
       "2025-09-19": 139,
@@ -125,7 +129,9 @@
       "2026-08-22": 13,
       "2026-09-04": 216,
       "2026-09-06": 16,
-      "2026-09-12": 266
+      "2026-09-12": 266,
+      "2026-09-16": 13,
+      "2026-09-15": 0
     }
   },
   {
@@ -133,15 +139,15 @@
     "url": "https://hypotheses.org",
     "icon": "https://hypotheses.org/wp-content/cleo-commons/images/favicon.png",
     "slug": "hypotheses",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.41%",
-    "uptimeMonth": "98.82%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "98.80%",
     "uptimeYear": "99.46%",
     "time": 1110,
-    "timeDay": 961,
-    "timeWeek": 1152,
+    "timeDay": 985,
+    "timeWeek": 1150,
     "timeMonth": 1079,
     "timeYear": 1110,
     "dailyMinutesDown": {
@@ -161,7 +167,8 @@
       "2026-08-23": 37,
       "2026-08-22": 8,
       "2026-09-04": 212,
-      "2026-09-12": 261
+      "2026-09-12": 261,
+      "2026-09-16": 9
     }
   },
   {
@@ -169,16 +176,16 @@
     "url": "https://calenda.org",
     "icon": "https://calenda.org/favicon.ico",
     "slug": "calenda",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "98.67%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "97.41%",
+    "uptimeMonth": "98.66%",
     "uptimeYear": "99.26%",
     "time": 1102,
-    "timeDay": 1407,
-    "timeWeek": 1586,
-    "timeMonth": 1361,
+    "timeDay": 1413,
+    "timeWeek": 1599,
+    "timeMonth": 1363,
     "timeYear": 1103,
     "dailyMinutesDown": {
       "2025-10-04": 496,
@@ -203,7 +210,8 @@
       "2026-08-25": 28,
       "2026-08-26": 50,
       "2026-09-04": 207,
-      "2026-09-12": 256
+      "2026-09-12": 256,
+      "2026-09-16": 5
     }
   }
 ]
