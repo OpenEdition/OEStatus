@@ -4,16 +4,16 @@
     "url": "https://www.openedition.org",
     "icon": "https://www.openedition.org/favicon.png",
     "slug": "open-edition",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "98.42%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "98.38%",
     "uptimeYear": "99.22%",
     "time": 1115,
-    "timeDay": 1038,
-    "timeWeek": 1063,
-    "timeMonth": 1102,
+    "timeDay": 1085,
+    "timeWeek": 1060,
+    "timeMonth": 1108,
     "timeYear": 1116,
     "dailyMinutesDown": {
       "2025-10-04": 326,
@@ -43,7 +43,8 @@
       "2026-09-12": 275,
       "2026-09-16": 15,
       "2026-09-15": 10,
-      "2026-09-17": 140
+      "2026-09-17": 140,
+      "2026-09-24": 20
     }
   },
   {
@@ -51,16 +52,16 @@
     "url": "https://journals.openedition.org",
     "icon": "https://static-origin.openedition.org/journals/images/favicon.png",
     "slug": "open-edition-journals",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "98.48%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "98.44%",
     "uptimeYear": "99.24%",
     "time": 1059,
-    "timeDay": 934,
-    "timeWeek": 988,
-    "timeMonth": 1015,
+    "timeDay": 948,
+    "timeWeek": 982,
+    "timeMonth": 1011,
     "timeYear": 1059,
     "dailyMinutesDown": {
       "2025-10-04": 412,
@@ -90,7 +91,8 @@
       "2026-09-12": 271,
       "2026-09-16": 15,
       "2026-09-15": 5,
-      "2026-09-17": 135
+      "2026-09-17": 135,
+      "2026-09-24": 16
     }
   },
   {
@@ -98,16 +100,16 @@
     "url": "https://books.openedition.org",
     "icon": "https://static.openedition.org/books/images/favicon.ico",
     "slug": "open-edition-books",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "98.53%",
-    "uptimeYear": "99.60%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "99.59%",
     "time": 1465,
-    "timeDay": 1720,
+    "timeDay": 1836,
     "timeWeek": 1554,
-    "timeMonth": 1612,
+    "timeMonth": 1600,
     "timeYear": 1465,
     "dailyMinutesDown": {
       "2025-10-04": 426,
@@ -133,7 +135,8 @@
       "2026-09-12": 266,
       "2026-09-16": 15,
       "2026-09-15": 0,
-      "2026-09-17": 130
+      "2026-09-17": 130,
+      "2026-09-24": 13
     }
   },
   {
@@ -141,16 +144,16 @@
     "url": "https://hypotheses.org",
     "icon": "https://hypotheses.org/wp-content/cleo-commons/images/favicon.png",
     "slug": "hypotheses",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "98.59%",
     "uptimeYear": "99.44%",
     "time": 1109,
-    "timeDay": 924,
-    "timeWeek": 1024,
-    "timeMonth": 1057,
+    "timeDay": 944,
+    "timeWeek": 1025,
+    "timeMonth": 1061,
     "timeYear": 1105,
     "dailyMinutesDown": {
       "2025-10-05": 575,
@@ -171,7 +174,8 @@
       "2026-09-04": 212,
       "2026-09-12": 261,
       "2026-09-16": 11,
-      "2026-09-17": 125
+      "2026-09-17": 125,
+      "2026-09-24": 10
     }
   },
   {
@@ -179,16 +183,16 @@
     "url": "https://calenda.org",
     "icon": "https://calenda.org/favicon.ico",
     "slug": "calenda",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "98.48%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "98.46%",
     "uptimeYear": "99.23%",
     "time": 1106,
-    "timeDay": 1299,
-    "timeWeek": 1523,
-    "timeMonth": 1580,
+    "timeDay": 1293,
+    "timeWeek": 1524,
+    "timeMonth": 1498,
     "timeYear": 1104,
     "dailyMinutesDown": {
       "2025-10-04": 496,
@@ -215,7 +219,8 @@
       "2026-09-04": 207,
       "2026-09-12": 256,
       "2026-09-16": 6,
-      "2026-09-17": 121
+      "2026-09-17": 121,
+      "2026-09-24": 7
     }
   }
 ]
