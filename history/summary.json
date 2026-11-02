@@ -4,16 +4,16 @@
     "url": "https://www.openedition.org",
     "icon": "https://www.openedition.org/favicon.png",
     "slug": "open-edition",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.27%",
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "73.87%",
+    "uptimeWeek": "96.27%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "99.20%",
     "time": 1121,
-    "timeDay": 1100,
-    "timeWeek": 1158,
-    "timeMonth": 1262,
+    "timeDay": 1108,
+    "timeWeek": 1151,
+    "timeMonth": 1260,
     "timeYear": 1121,
     "dailyMinutesDown": {
       "2026-02-13": 200,
@@ -45,7 +45,7 @@
       "2026-09-24": 28,
       "2026-10-07": 27,
       "2026-10-17": 42,
-      "2026-11-02": 20
+      "2026-11-02": 376
     }
   },
   {
@@ -53,16 +53,16 @@
     "url": "https://journals.openedition.org",
     "icon": "https://static-origin.openedition.org/journals/images/favicon.png",
     "slug": "open-edition-journals",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.30%",
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "74.20%",
+    "uptimeWeek": "96.31%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.24%",
     "time": 1054,
-    "timeDay": 992,
-    "timeWeek": 1126,
-    "timeMonth": 1133,
+    "timeDay": 958,
+    "timeWeek": 1120,
+    "timeMonth": 1130,
     "timeYear": 1054,
     "dailyMinutesDown": {
       "2026-01-20": 45,
@@ -94,7 +94,7 @@
       "2026-09-24": 23,
       "2026-10-07": 22,
       "2026-10-17": 37,
-      "2026-11-02": 16
+      "2026-11-02": 372
     }
   },
   {
@@ -102,16 +102,16 @@
     "url": "https://books.openedition.org",
     "icon": "https://static.openedition.org/books/images/favicon.ico",
     "slug": "open-edition-books",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "97.27%",
-    "uptimeYear": "99.45%",
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "74.54%",
+    "uptimeWeek": "96.36%",
+    "uptimeMonth": "96.46%",
+    "uptimeYear": "99.39%",
     "time": 1454,
-    "timeDay": 1160,
-    "timeWeek": 1574,
-    "timeMonth": 1673,
+    "timeDay": 1182,
+    "timeWeek": 1557,
+    "timeMonth": 1669,
     "timeYear": 1455,
     "dailyMinutesDown": {
       "2025-11-04": 20,
@@ -140,7 +140,7 @@
       "2026-10-17": 32,
       "2026-10-22": 606,
       "2026-10-21": 528,
-      "2026-11-02": 13
+      "2026-11-02": 367
     }
   },
   {
@@ -148,16 +148,16 @@
     "url": "https://hypotheses.org",
     "icon": "https://hypotheses.org/wp-content/cleo-commons/images/favicon.png",
     "slug": "hypotheses",
-    "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.72%",
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "74.87%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.65%",
     "time": 1109,
-    "timeDay": 1069,
-    "timeWeek": 1152,
-    "timeMonth": 1281,
+    "timeDay": 1133,
+    "timeWeek": 1145,
+    "timeMonth": 1280,
     "timeYear": 1109,
     "dailyMinutesDown": {
       "2026-02-26": 15,
@@ -178,7 +178,7 @@
       "2026-09-16": 11,
       "2026-09-17": 125,
       "2026-10-17": 27,
-      "2026-11-02": 10
+      "2026-11-02": 362
     }
   },
   {
@@ -186,16 +186,16 @@
     "url": "https://calenda.org",
     "icon": "https://calenda.org/favicon.ico",
     "slug": "calenda",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.35%",
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "75.21%",
+    "uptimeWeek": "96.46%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.28%",
     "time": 1112,
-    "timeDay": 941,
-    "timeWeek": 1133,
-    "timeMonth": 1273,
+    "timeDay": 946,
+    "timeWeek": 1128,
+    "timeMonth": 1270,
     "timeYear": 1114,
     "dailyMinutesDown": {
       "2026-02-13": 60,
@@ -221,7 +221,7 @@
       "2026-09-16": 6,
       "2026-09-17": 121,
       "2026-10-17": 23,
-      "2026-11-02": 6
+      "2026-11-02": 357
     }
   }
 ]
